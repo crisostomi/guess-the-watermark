@@ -173,11 +173,7 @@ notebooks/lightning_logs/*
 __pycache__/*
 *.ckpt
 
-data/generated/
-data/poisoned/
 wandb/
-/data/*
-!data/.gitkeep
 
 results/*
 
